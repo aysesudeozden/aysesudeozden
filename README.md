@@ -19,7 +19,7 @@ I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Cy
   <a href="mailto:aysesudeozden@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aysesudeozden" target="blank">
+  <a href="www.linkedin.com/in/ayşe-sude-özden-872013227" target="blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   <a href="https://www.instagram.com/aysesudeozden" target="blank">
