@@ -8,7 +8,7 @@
 
 I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Cyber Security Analyst**. I am passionate about writing code, exploring system security, and developing innovative technologies.
 
-- 🛡️ **Focus Areas:** Cyber Security, Network Security, and OSINT.
+- 🛡️ **Focus Areas:** Web Design, Cyber Security, Network Security, and OSINT.
 - 🚀 **Technologies:** React, Next.js, Python, and Node.js.
 - 🎓 **Education:** Giresun University (Türkiye) & Kazimierza Wielkiego University (Erasmus+/Poland) .
 
