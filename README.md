@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Cyber Security Analyst**. I am passionate about writing code, exploring system security, and developing innovative technologies.
+I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Jr. Fullstack Developer**. I am passionate about writing code, exploring system security, and developing innovative technologies.
 
 - 🛡️ **Focus Areas:** Web Design, Cyber Security, Network Security, and OSINT.
 - 🚀 **Technologies:** React, Next.js, Python, and Node.js.
