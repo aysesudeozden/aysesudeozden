@@ -9,7 +9,7 @@
 I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Jr. Fullstack Developer**. I am passionate about writing code, exploring system security, and developing innovative technologies.
 
 - 🛡️ **Focus Areas:** Web Design, Cyber Security, Network Security, and OSINT.
-- 🚀 **Technologies:** React, Next.js, Python, and Node.js.
+- 🚀 **Technologies:** React, Next.js, Vite, Python, and Node.js.
 - 🎓 **Education:** Giresun University (Türkiye) & Kazimierza Wielkiego University (Erasmus+/Poland) .
 
 <p align="center">
@@ -35,7 +35,7 @@ I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Jr
   <tr>
     <td align="center" width="50%">
       <b>Software & Frameworks</b><br>
-      <img src="https://skillicons.dev/icons?i=js,py,java,php,nextjs,react,nodejs,fastapi,css" />
+      <img src="https://skillicons.dev/icons?i=js,py,java,php,nextjs,vue,vite,react,nodejs,fastapi,css" />
     </td>
     <td align="center" width="50%">
       <b>Systems & Databases</b><br>
