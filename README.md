@@ -49,7 +49,7 @@ I am **Ayşe Sude Özden**, a Computer Engineering graduate and an aspiring **Jr
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysesudeozden&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysesudeozden&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
