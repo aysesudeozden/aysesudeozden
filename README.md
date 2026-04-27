@@ -1,7 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysesudeozden&format=flat-square&color=red" alt="Ziyaretçi Sayısı" />
+  <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
 </p>
-
 ---
 
 ### 👩‍💻 About Me
